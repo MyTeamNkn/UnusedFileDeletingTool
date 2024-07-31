@@ -1,0 +1,2 @@
+# UnusedFileDeletingTool
+UnityProjectフォルダから中間ファイル(LibraryLibrary、UserSettings)を削除するツール
